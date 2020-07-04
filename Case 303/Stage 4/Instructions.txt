@@ -1,0 +1,22 @@
+	Whilst the mouse is moving:
+	- Use the 'map' function to scale mouseX to values ranging from 2 to 10.
+	- Assign the output to Hidden_Storage_Combination_A
+
+	Whilst the mouse is being dragged:
+	- Use the 'random' function to produce random values ranging from 1 to 10.
+	- Assign the output to Hidden_Storage_Combination_B
+
+	When any key is pressed:
+	- Make Hidden_Storage_Combination_C equal to the value of 'keyCode'
+
+	Whilst the mouse is moving:
+	- Use the 'map' function to scale mouseY to values ranging from 14 to 79.
+	- Assign the output to Hidden_Storage_Combination_D
+
+	Whilst the mouse is moving:
+	- Use the 'map' function to scale mouseX to values ranging from 18 to 73.
+	- Assign the output to Hidden_Storage_Combination_E
+
+	When the mouse button is released:
+	- Use the 'map' function to scale mouseX to values ranging from 12 to 76.
+	- Assign the output to Hidden_Storage_Combination_F
